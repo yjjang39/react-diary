@@ -1,0 +1,36 @@
+.DiaryEntryForm {
+    margin: 30px auto;
+    width: 90%;
+    text-align: center;
+}
+
+.title_input {
+    display: block;
+    width: 80%;
+    height: 20px;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid #000;
+    margin: auto;
+}
+.content_input {
+    display: block;
+    width: 80%;
+    padding: 50px 10px;
+    border: none;
+    border-bottom: 1px solid #000;
+    margin: 0 auto 20px;
+    outline: none;
+    resize: none;
+}
+
+
+
+.diary_save_btn {
+    color: #807f7f;
+    padding: 5px;
+}
+.diary_save_btn:hover {
+    background: #dfeaec;
+    color: #1876d2;
+}

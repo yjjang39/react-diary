@@ -1,0 +1,42 @@
+.Diary {
+    margin: 0 auto;
+    text-align: center;
+}
+.today_diary {
+    font-size: 25px;
+    margin: 20px 0 50px;
+}
+
+/* DiaryEntryList */
+.DiaryEntryList {
+    margin: 30px 0 10px;
+}
+.entry_title {
+    width: 400px;
+    margin: 0 auto 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.entry_content {
+    font-size: 17px;
+}
+.diary_edit_delete_btn_wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin: 15px 0 40px;
+}
+.diary_edit_delete_btn_wrap button {
+    color: #807f7f;
+    padding: 5px;
+}
+.diary_edit_delete_btn_wrap button:hover {
+    background: #dfeaec;
+    color: #1876d2;
+}
+
+.entry_title:hover {
+    cursor: pointer;
+    background: #eee;
+}

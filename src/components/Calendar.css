@@ -1,0 +1,12 @@
+#modal-modal-title {
+    margin: 20px;
+}
+.event_add {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fc-view-harness:hover{
+    cursor: pointer;
+}
