@@ -49,7 +49,7 @@ Figma를 이용하여 초기 디자인도 그려보았습니다.
 <https://project-react-diary.web.app/>
 
 
-[3차 프로젝트 기획서 바로가기]()
+[3차 프로젝트 기획서 바로가기](https://yjjang39.github.io/react-diary/diary_upload.pdf)
 
 
 
