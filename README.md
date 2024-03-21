@@ -43,6 +43,13 @@ Figma를 이용하여 초기 디자인도 그려보았습니다.
 
 
 ## 📢 설치 방법
+1. npm install -g create-react-app
+2. create-react-app .
+3. npm install .
+4. npm start
+5. npm run build
+6. firebasedeploy
+
 
 
 ## 사이트 바로가기
