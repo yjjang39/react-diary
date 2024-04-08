@@ -131,7 +131,7 @@ function Calendar() {
 
 
     return (
-        <div>
+        <div className='Calendar'>
             {loggedIn ? (
                 <div style={{ maxWidth: '90%', margin: '0 auto' }}>
                     <FullCalendar
