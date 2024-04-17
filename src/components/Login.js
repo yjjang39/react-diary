@@ -63,7 +63,11 @@ const Login = () => {
                 <Route path='/join' element={<Join/>} />
             </Routes>
 
-
+            <div className="testID">
+                <p>테스트용 ID/PW</p>
+                <p>ID: 123456@gmail.com</p>
+                <p>PW: 123456</p>
+            </div>
 
             <Container component="main" maxWidth="md">        
                 <Box
