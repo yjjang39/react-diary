@@ -48,7 +48,7 @@ Figma를 이용하여 초기 디자인도 그려보았습니다.
 3. npm install .
 4. npm start
 5. npm run build
-6. firebasedeploy
+6. firebase deploy
 
 
 
